@@ -1,0 +1,7 @@
+{
+  "name": "Mswasth Data Entry Portal",
+  "description": "A data entry portal for Mswasth to manage customer and policy information with AI-powered features, data export, and persistent storage.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
